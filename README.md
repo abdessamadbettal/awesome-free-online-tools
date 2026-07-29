@@ -84,6 +84,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
+- **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)** — Generate original fiction by prompt, genre, tone, length and point of view; free with no sign-up.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
 
 ## Contributing
