@@ -28,6 +28,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
 - **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
 - **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
+- **[Gracestack Dev Tools](https://tools.gracestack.se/dev-tools.html)** — 14 free, browser-based utilities: Image Optimizer, CSS Gradient Generator, JSON Formatter, Regex Tester, JWT Decoder, Markdown Previewer, Text Diff, Color Converter, Code Formatter, JSON Schema Validator, Color Contrast Checker, Lorem Ipsum Generator, Base64, UUID. No ads, no signup, fully client-side.
 
 ## Code images & snippets
 
