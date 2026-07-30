@@ -50,6 +50,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[apikey.tools](https://apikey.tools)** — 64 tools for API keys, tokens and secrets: key generation, JWT/HMAC debugging, secret scanning and `.env` / Kubernetes config output.
 
 ## Design & images
+- **[Free Image Merger](https://freeimagemerger.com)** — Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in your browser, no uploads.
 
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
