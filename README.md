@@ -13,6 +13,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
   - [Design \& images](#design--images)
   - [PDF \& files](#pdf--files)
   - [QR \& business cards](#qr--business-cards)
+  - [Calculators \& planning](#calculators--planning)
   - [Time \& date](#time--date)
   - [Career \& writing](#career--writing)
   - [Contributing](#contributing)
@@ -72,6 +73,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[QRCode Monkey](https://www.qrcode-monkey.com)** — Custom QR codes with logos, colors and high-resolution export.
 - **[qrfast.io](https://qrfast.io)** — QR codes for links, WiFi, vCards, PDFs, WhatsApp and crypto, with styling and PNG/SVG/JPEG/WEBP export.
 - **[cartevisite.io](https://cartevisite.io)** — Double-sided business card maker with full typography control, logo import and a built-in QR flow.
+
+## Calculators & planning
+
+- **[Concrete Calculator Hub](https://concreteestimatorhub.com/)** — Estimate concrete volume, bag counts, footings, post holes, ready-mix choices and material costs without sign-up.
 
 ## Time & date
 
