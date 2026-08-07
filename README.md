@@ -37,6 +37,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Data, APIs & testing
 
+- **[Vaytric Link Health](https://vaytric.com/link-health/)** — Free multi-URL broken link checker (HTTP status + titles). Optional one-time paid full-site crawl CSV.
 - **[Mockaroo](https://mockaroo.com)** — Generate realistic mock datasets and export to CSV, JSON, SQL and Excel.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com)** — Free fake REST API for testing and prototyping front-end code.
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
