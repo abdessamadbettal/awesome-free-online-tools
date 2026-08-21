@@ -15,6 +15,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
   - [QR \& business cards](#qr--business-cards)
   - [Time \& date](#time--date)
   - [Career \& writing](#career--writing)
+  - [Calculators & makers](#calculators--makers)
   - [Contributing](#contributing)
 
 ## Developer utilities
@@ -85,6 +86,16 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+
+
+## Calculators & makers
+
+- **[Codex Theme Builder](https://codextheme.tools)** — Free browser tool to build, preview, and export custom themes for OpenAI Codex.
+- **[WattsCalc](https://wattscalc.com)** — Free wattage and electricity cost calculator for appliances and devices.
+- **[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com)** — Free calculator for lawn mowing cost estimates by area and rate.
+- **[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com)** — Free pricing calculator for embroidery jobs.
+- **[Image to Crochet Pattern](https://imagetocrochetpattern.com)** — Free tool that turns images into crochet patterns.
+- **[Pressure Washer Fix](https://pressurewasherfix.com)** — Free troubleshooting guides for common pressure washer problems.
 
 ## Contributing
 
