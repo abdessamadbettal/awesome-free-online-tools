@@ -15,6 +15,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
   - [QR \& business cards](#qr--business-cards)
   - [Time \& date](#time--date)
   - [Career \& writing](#career--writing)
+  - [Education \& reference](#education--reference)
   - [Contributing](#contributing)
 
 ## Developer utilities
@@ -85,6 +86,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+
+## Education & reference
+
+- **[Random Animal Picker](https://randomanimalpicker.com/)** — Free web app for discovering real animals with photos, key facts, source links, and related species.
 
 ## Contributing
 
