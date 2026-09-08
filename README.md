@@ -51,6 +51,8 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Design & images
 
+- **[Chatcument Favicon Generator](https://chatcument.com/img/favicon)** — Turn a logo into size-specific PNG icons and a multi-size ICO, with small-size previews and no signup.
+
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
