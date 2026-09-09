@@ -89,3 +89,4 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## Contributing
 
 Found a free tool that belongs here? Open a pull request. Keep it free (or with a genuinely useful free tier), keep the description to one concrete line, and add it to the right section.
+- [Dash Calculator](https://dashcalculator.com) - Free online calculators for finance, health, math, and everyday decisions.
