@@ -86,6 +86,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
 
+## Hardware & diagnostics
+
+- **[TestMyGears](https://testmygears.com/)** — In-browser diagnostic tools for testing monitors, keyboards, mice, touchscreens, controller and other hardware.
+
 ## Contributing
 
 Found a free tool that belongs here? Open a pull request. Keep it free (or with a genuinely useful free tier), keep the description to one concrete line, and add it to the right section.
