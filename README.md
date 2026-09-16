@@ -54,6 +54,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
+- **[Face Shape Detector](https://myfaceshapechart.com/)** — Browser-based face-shape detector with measurements and hairstyle guides.
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
 - **[Coolors](https://coolors.co)** — Generate, tweak and save color palettes in seconds.
 - **[remove.bg](https://remove.bg)** — Remove the background from any photo automatically.
