@@ -83,6 +83,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## Career & writing
 
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
+- **[ResumeAI](https://withresumeai.com/)** — Free ATS resume checker (3/day anonymous, 10/day free account) and State of ATS 2026 dataset.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
 
