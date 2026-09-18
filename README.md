@@ -20,6 +20,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## Developer utilities
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression and data analysis.
+- **[NextReset](https://nextreset.ai/)** — Browser-based Codex reset-history and official AI-service incident reference with a local personal countdown.
 - **[IT Tools](https://it-tools.tech)** — Open-source collection of everyday developer utilities — converters, generators and formatters — in one clean interface.
 - **[DevDocs](https://devdocs.io)** — Fast, searchable, offline-capable API documentation for dozens of languages and frameworks in a single tab.
 - **[regex101](https://regex101.com)** — Build and debug regular expressions with live match highlighting and a breakdown of every token.
