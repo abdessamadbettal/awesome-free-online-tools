@@ -81,6 +81,8 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
 
 ## Career & writing
+- **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** — Free browser tools for freelancers, including invoice generation, late-fee calculations, client intake, scopes of work and timesheets.
+
 
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
