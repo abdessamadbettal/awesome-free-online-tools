@@ -79,6 +79,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[World Time Buddy](https://www.worldtimebuddy.com)** — Compare time zones side by side and find meeting times across cities.
 - **[worldclock.tools](https://worldclock.tools)** — Live local time for 34,043 cities, a cross-timezone meeting planner and 36 converters and timers.
 - **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
+- **[OutilCalcul](https://outilcalcul.com)** — Free instant calculators for salary, dates, geometry, unit conversions, and French labor-law calculations, no signup required.
 
 ## Career & writing
 
