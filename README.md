@@ -66,6 +66,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
+- **[Tonvert](https://tonvert.com)** — Free audio and video converter for MP3, MP4, M4A, MOV, MKV, WAV, FLAC and WEBM that runs entirely in the browser, so files are never uploaded.
 
 ## QR & business cards
 
