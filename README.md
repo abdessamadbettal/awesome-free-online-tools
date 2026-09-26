@@ -40,6 +40,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Mockaroo](https://mockaroo.com)** — Generate realistic mock datasets and export to CSV, JSON, SQL and Excel.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com)** — Free fake REST API for testing and prototyping front-end code.
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
+- **[DataLensia](https://datalensia.com)** — Privacy-first browser toolkit for viewing, comparing, converting and visualizing JSON, CSV and NDJSON.
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
 
