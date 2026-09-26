@@ -53,6 +53,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
+- **[FileOnTap](https://fileontap.com/heic-to-png/)** — Free HEIC to PNG converter that runs entirely in your browser — files are never uploaded to any server.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
 - **[Coolors](https://coolors.co)** — Generate, tweak and save color palettes in seconds.
