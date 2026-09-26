@@ -82,6 +82,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Career & writing
 
+- **[FirstClick Homepage Headline Generator](https://elyasibkr.github.io/firstclick-headline-generator/)** — Generate three homepage headline drafts, a supporting line and a call to action from six inputs, locally in the browser without sign-up.
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
