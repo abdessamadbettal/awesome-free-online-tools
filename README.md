@@ -21,6 +21,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression and data analysis.
 - **[IT Tools](https://it-tools.tech)** — Open-source collection of everyday developer utilities — converters, generators and formatters — in one clean interface.
+- **[TextBases](https://textbases.app/)** — Free browser-based utilities for text, formatting, encoding, decoding and common developer workflows with no signup required.
 - **[DevDocs](https://devdocs.io)** — Fast, searchable, offline-capable API documentation for dozens of languages and frameworks in a single tab.
 - **[regex101](https://regex101.com)** — Build and debug regular expressions with live match highlighting and a breakdown of every token.
 - **[crontab.guru](https://crontab.guru)** — Translate any cron schedule expression into plain English as you type.
