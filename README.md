@@ -37,6 +37,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Data, APIs & testing
 
+- **[BestJSON](https://bestjson.com/)** — Format, validate, repair and compare JSON locally in the browser, with a preview of repair changes and no sign-up.
 - **[Mockaroo](https://mockaroo.com)** — Generate realistic mock datasets and export to CSV, JSON, SQL and Excel.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com)** — Free fake REST API for testing and prototyping front-end code.
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
