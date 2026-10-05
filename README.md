@@ -57,6 +57,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
 - **[Coolors](https://coolors.co)** — Generate, tweak and save color palettes in seconds.
 - **[remove.bg](https://remove.bg)** — Remove the background from any photo automatically.
+- **[FotoApta](https://fotoapta.com)** — Turn a phone selfie into an ID or passport photo (3x4, 5x7, US visa 2x2) with a white background; runs in the browser, no upload, no watermark.
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
