@@ -60,6 +60,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[SnappyKit](https://snappykit.site)** — 40+ browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs including HEIC, resize, crop, filters and EXIF removal — nothing is ever uploaded.
 
 ## PDF & files
 
