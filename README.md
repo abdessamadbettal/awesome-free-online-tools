@@ -51,6 +51,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Design & images
 
+- **[BabyVideo.ai](https://babyvideo.ai/)** — Create entertainment-only baby previews from one or two parent photos with limited daily check-in credits; not a medical or genetic prediction.
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
