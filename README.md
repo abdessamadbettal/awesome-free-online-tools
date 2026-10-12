@@ -25,7 +25,9 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[regex101](https://regex101.com)** — Build and debug regular expressions with live match highlighting and a breakdown of every token.
 - **[crontab.guru](https://crontab.guru)** — Translate any cron schedule expression into plain English as you type.
 - **[explainshell](https://explainshell.com)** — Paste a shell command and see what every flag and argument actually does.
-- **[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
+- **[17NAS HTML Runner](https://17nas.com/tools/html-runner/)** — Free online HTML runner; write and preview HTML/CSS/JS instantly in your browser, no signup.
+
+**[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
 - **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
 - **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
 
@@ -59,7 +61,9 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[remove.bg](https://remove.bg)** — Remove the background from any photo automatically.
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
-- **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[17NAS CSS Grid Generator](https://17nas.com/tools/css-grid-generator/)** — Free CSS Grid layout generator; visually build grid layouts and copy the code, no signup.
+
+**[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
 
 ## PDF & files
 
