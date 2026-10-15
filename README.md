@@ -66,6 +66,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
+- **[pixepi](https://pixepi.com)** — Merge, split and compress PDFs, convert and resize images, and other quick file tools — free, in-browser, no sign-up.
 
 ## QR & business cards
 
