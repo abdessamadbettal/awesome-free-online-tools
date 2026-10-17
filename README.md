@@ -63,6 +63,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## PDF & files
 
+- **[DamnPDFs](https://damnpdfs.com)** — 70+ free tools for PDFs, documents, images and audio: edit, sign, merge, compress, convert Word/PowerPoint, remove backgrounds, run OCR, transcribe audio and build reusable workflows. Browser and cloud processing options.
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
