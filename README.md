@@ -60,6 +60,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[JuzPost Photo Resizer](https://www.juzpost.com/tools/instagram-photo-resizer)** — Resize and crop photos to the exact sizes Instagram, X, LinkedIn, TikTok, Pinterest and YouTube expect.
 
 ## PDF & files
 
