@@ -19,6 +19,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## Developer utilities
 
+- **[Toolenix](https://toolenix.com)** — 100+ free online tools (PDF, image, developer, calculators, text) — no sign-up, no watermarks, everything runs in your browser.
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression and data analysis.
 - **[IT Tools](https://it-tools.tech)** — Open-source collection of everyday developer utilities — converters, generators and formatters — in one clean interface.
 - **[DevDocs](https://devdocs.io)** — Fast, searchable, offline-capable API documentation for dozens of languages and frameworks in a single tab.
