@@ -73,6 +73,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[qrfast.io](https://qrfast.io)** — QR codes for links, WiFi, vCards, PDFs, WhatsApp and crypto, with styling and PNG/SVG/JPEG/WEBP export.
 - **[cartevisite.io](https://cartevisite.io)** — Double-sided business card maker with full typography control, logo import and a built-in QR flow.
 
+## Calculators
+
+- **[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)** — Estimate US roof replacement cost ranges by roof area, material, location and tear-off choice without creating an account.
+
 ## Time & date
 
 - **[time.is](https://time.is)** — Exact current time anywhere, with time-zone detail for any city.
