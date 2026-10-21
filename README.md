@@ -1,5 +1,5 @@
-# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+``# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+``
 A curated list of free, browser-based tools that do one thing well — for developers, designers, and everyone in between. Most run entirely in the browser with no sign-up and nothing to install.
 
 ## Contents
@@ -79,6 +79,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[World Time Buddy](https://www.worldtimebuddy.com)** — Compare time zones side by side and find meeting times across cities.
 - **[worldclock.tools](https://worldclock.tools)** — Live local time for 34,043 cities, a cross-timezone meeting planner and 36 converters and timers.
 - **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
+- **[Nimzoa Date Difference Calculator](https://nimzoa.com/tools/date-difference-calculator)** — Calculate the difference between two dates in years, months, weeks, and days directly in your browser.
 
 ## Career & writing
 
