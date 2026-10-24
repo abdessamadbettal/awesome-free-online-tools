@@ -29,6 +29,8 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
 - **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
 
+- **[ProCraft](https://procraft-9lw.pages.dev)** — 55 free web tools that run entirely in your browser: JSON, text, encoding, colors, developer tools and more, with no sign-in and no tracking.
+
 ## Code images & snippets
 
 - **[Carbon](https://carbon.now.sh)** — Create and share good-looking images of your source code with editor themes and window styling.
