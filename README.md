@@ -52,6 +52,8 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## Design & images
 
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
+- **[TeslaWraps](https://teslawraps.design)** — Free browser editor for Tesla Paint Shop wraps: model templates, 3D preview and PNG export. Core editing free without an account; optional AI credits.
+- **[PromptImage](https://promptimage.cloud)** — Free AI image & video studio with a prompt library. Signup credits, multi-model generation — no card needed.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
