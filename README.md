@@ -79,12 +79,14 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[World Time Buddy](https://www.worldtimebuddy.com)** — Compare time zones side by side and find meeting times across cities.
 - **[worldclock.tools](https://worldclock.tools)** — Live local time for 34,043 cities, a cross-timezone meeting planner and 36 converters and timers.
 - **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
+- **[DayAlmanac](https://dayalmanac.com)** — What each observance is, when it falls and who started it, traced to named sources.
 
 ## Career & writing
 
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+- **[WageLark](https://wagelark.com)** — What jobs actually pay from BLS data: salary ranges by percentile, education requirements, and how to get into the field.
 
 ## Contributing
 
