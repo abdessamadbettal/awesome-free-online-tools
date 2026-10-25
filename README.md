@@ -66,6 +66,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
+- **[ChatGPT2Word](https://chatgpt2word.com)** — Paste a ChatGPT answer and download a clean .docx with tables, equations and right-to-left text intact.
 
 ## QR & business cards
 
