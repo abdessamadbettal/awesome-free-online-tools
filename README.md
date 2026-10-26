@@ -1,5 +1,6 @@
 # Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A curated list of free, browser-based tools that do one thing well — for developers, designers, and everyone in between. Most run entirely in the browser with no sign-up and nothing to install.
 
 ## Contents
