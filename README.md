@@ -43,6 +43,8 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
 
+- **[Zerocost Lab CSV Inspection](https://zerocost-lab-jp.com/tools/csv-inspection-trial/)** — Japanese-language, browser-local CSV checker for leading zeros, empty cells, embedded newlines and inconsistent column counts; no sign-up or automatic correction.
+
 ## Security & secrets
 
 - **[Have I Been Pwned](https://haveibeenpwned.com)** — Check whether your email or password has appeared in a known data breach.
