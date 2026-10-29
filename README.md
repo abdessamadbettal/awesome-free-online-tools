@@ -56,6 +56,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
 - **[Coolors](https://coolors.co)** — Generate, tweak and save color palettes in seconds.
+- **[HelpMyIMG](https://helpmyimg.com)** — Free, in-browser AI background remover, image compressor, resizer and EXIF metadata editor with 100% local on-device processing.
 - **[remove.bg](https://remove.bg)** — Remove the background from any photo automatically.
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
