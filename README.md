@@ -28,6 +28,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
 - **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
 - **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
+- **[SmaftyTools](https://smaftytools.lol)** — 132 free browser-based tools for developers, writers and designers (JSON, text, image, PDF, QR) with no sign-up and no file uploads.
 
 ## Code images & snippets
 
