@@ -66,6 +66,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
+- **[Video Size Reducer](https://video-size-reducer.com)** — Compress a video to an exact target file size (e.g. 8MB or 25MB) for Discord, email or WhatsApp limits; free tier, no watermark.
 
 ## QR & business cards
 
