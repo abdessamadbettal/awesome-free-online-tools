@@ -64,6 +64,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## PDF & files
 
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
+- **[OpenP7M](https://openp7m.com/en/)** — Read PDFs inside P7M containers and supported FatturaPA XML locally in your browser. Free watermarked preview; single-file export costs €1.99, and batches require an account.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
 
