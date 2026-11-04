@@ -85,6 +85,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Free browser sticker sheet maker: lays out 4x7 sticker sheets for print-and-cut printers, plus a cost-per-sheet calculator.
 
 ## Contributing
 
