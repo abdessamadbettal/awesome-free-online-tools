@@ -66,7 +66,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
-- **[4Dev.Net](https://4dev.net)** — 180+ file converters and dev tools (HEIC to JPG, MP4 to MP3, JPG to PDF, JSON to CSV) that run in the browser, so files are never uploaded.
+- **[4Dev.Net](https://4dev.net)** — 180+ file converters and dev tools (PDF to Word, MP4 to MP3, JPG to PDF, JSON to CSV) that run in the browser, so files are never uploaded.
 
 ## QR & business cards
 
