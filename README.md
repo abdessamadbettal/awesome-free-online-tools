@@ -15,6 +15,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
   - [QR \& business cards](#qr--business-cards)
   - [Time \& date](#time--date)
   - [Career \& writing](#career--writing)
+  - [3D / CAD](#3d--cad)
   - [Contributing](#contributing)
 
 ## Developer utilities
@@ -85,6 +86,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+
+## 3D / CAD
+
+- **[CADProps STEP Viewer](https://www.cadprops.com/tools/step-viewer/)** — Open STEP/STP CAD files in the browser to inspect structure and dimensions; viewing needs no account (files upload for processing).
 
 ## Contributing
 
