@@ -52,6 +52,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## Design & images
 
 - **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
+- **[ImagineHero](https://imaginehero.com)** — Free browser image editor with layers, PSD support and on-device background removal, plus quick crop, compress and convert tools. No account.
 - **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 - **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
 - **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
