@@ -64,6 +64,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 ## PDF & files
 
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
+- **[Mdpresso](https://mdpresso.com/)** — Split a PDF by page range or export every page separately, with processing in the browser.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
 
