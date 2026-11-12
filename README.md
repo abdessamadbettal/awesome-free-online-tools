@@ -71,6 +71,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 - **[QRCode Monkey](https://www.qrcode-monkey.com)** — Custom QR codes with logos, colors and high-resolution export.
 - **[qrfast.io](https://qrfast.io)** — QR codes for links, WiFi, vCards, PDFs, WhatsApp and crypto, with styling and PNG/SVG/JPEG/WEBP export.
+- **[QR Before Print](https://qr-before-print-1110.crisp-llama-2628.chatgpt.site/)** — Free Japanese URL-to-QR generator with a one-click example and SVG/PNG export; no signup.
 - **[cartevisite.io](https://cartevisite.io)** — Double-sided business card maker with full typography control, logo import and a built-in QR flow.
 
 ## Time & date
