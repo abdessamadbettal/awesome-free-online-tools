@@ -42,6 +42,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
+- **[No Stairs Please](https://nostairsplease.com)** — Searchable directory and route planner covering 10,000+ live music venues across North America, with a free public MCP endpoint.
 
 ## Security & secrets
 
