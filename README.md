@@ -42,6 +42,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
+- **[Mydentify AI Model Cost Calculator](https://mydentify.com/tools/ai-model-cost-calculator)** — Compare AI API costs using request volume, token sizes and prompt caching.
 
 ## Security & secrets
 
