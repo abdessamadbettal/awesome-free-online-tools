@@ -60,6 +60,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[Crosy](https://crosy.app/)** — Convert personal photos into cross-stitch patterns, adjust DMC thread colors, and preview digital stitches for free, with complete pattern exports requiring an account and a 30-credit pattern unlock.
 
 ## PDF & files
 
