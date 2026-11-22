@@ -85,6 +85,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+- **[NEURON Prompt Checker](https://aleksknyaz1968-rgb.github.io/neuron-prompt-checker/)** ? Free multilingual browser tool for checking prompt completeness and creating structured prompt templates; no sign-up required.
 
 ## Contributing
 
