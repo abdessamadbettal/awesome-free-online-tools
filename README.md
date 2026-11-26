@@ -14,6 +14,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
   - [PDF \& files](#pdf--files)
   - [QR \& business cards](#qr--business-cards)
   - [Time \& date](#time--date)
+  - [Calculators \& finance](#calculators--finance)
   - [Career \& writing](#career--writing)
   - [Contributing](#contributing)
 
@@ -79,6 +80,10 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[World Time Buddy](https://www.worldtimebuddy.com)** — Compare time zones side by side and find meeting times across cities.
 - **[worldclock.tools](https://worldclock.tools)** — Live local time for 34,043 cities, a cross-timezone meeting planner and 36 converters and timers.
 - **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
+
+## Calculators & finance
+
+- **[SellerFeeTools](https://sellerfeetools.com)** — Free Etsy fee, profit and pricing calculators for 17 countries, breaking down listing, transaction, payment processing, regulatory and Offsite Ads fees per order.
 
 ## Career & writing
 
