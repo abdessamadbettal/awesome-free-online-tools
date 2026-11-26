@@ -85,6 +85,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+- **[ResumeMetric](https://resumemetric.com/)** — Client-side ATS resume scanner and job-description keyword matcher that parses PDF/DOCX files locally in the browser with zero server uploads, alongside 25 ATS-friendly templates and 16 career calculators. Free, no account required.
 
 ## Contributing
 
