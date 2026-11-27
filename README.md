@@ -60,6 +60,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[TinyMast](https://tinymast.com/image-compress/)** — Compress up to 100 JPG/PNG/WebP/GIF images per batch to a target KB you set (20, 50 or 100 KB) and download the batch as a ZIP, with PDF merge, split and OCR on the same site.
 
 ## PDF & files
 
