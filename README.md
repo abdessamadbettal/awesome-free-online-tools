@@ -43,7 +43,6 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
 - **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
 
-
 - **[Xiaoxue CSV Cleaner](https://tools.gougousongsong.dpdns.org/csv-cleaner/)** — Free, browser-only CSV cleaner: flags rows with drifted column counts, non-numeric amounts, mixed date formats, invisible whitespace and duplicates instead of silently guessing. Nothing is uploaded.
 
 ## Security & secrets
