@@ -28,6 +28,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
 - **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
 - **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
+- **[MyOnlineTools](https://myonlinetools.top/)** — 80+ client-side developer and everyday utilities including Linux chmod, IPv4 CIDR subnet, HTTP status lookup, JWT decoder and cron generator.
 
 ## Code images & snippets
 
@@ -60,6 +61,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[MyOnlineImages](https://myonlineimages.top/)** — 100% browser-side image compressor (exact KB targets from 10KB to 1MB), AVIF/SVG/WebP/HEIC converter, passport 4x6 sheet maker and local watermarker.
 
 ## PDF & files
 
@@ -85,6 +87,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
 - **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
 - **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
+- **[MyOnlineText](https://myonlinetext.top/)** — 50 local browser text utilities including Excel/CSV-to-Markdown tables, JSON-to-YAML converter, text diff and social character counters.
 
 ## Contributing
 
